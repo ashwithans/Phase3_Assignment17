@@ -1,0 +1,5 @@
+SELECT TOP (1000) [TID]
+      ,[TName]
+      ,[TEmail]
+      ,[TSlogan]
+  FROM [TeamsDB].[dbo].[Teams]
